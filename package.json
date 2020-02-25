@@ -1,0 +1,28 @@
+{
+  "name": "hexo-newpost-pinyin",
+  "version": "1.0.0",
+  "description": "hexo plugin new post with pinyin when you input with zh-CN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yhnu/hexo-newpost-pinyin.git"
+  },
+  "keywords": [
+    "hexo",
+    "new",
+    "post"
+  ],
+  "author": "yhnu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yhnu/hexo-newpost-pinyin/issues"
+  },
+  "homepage": "https://github.com/yhnu/hexo-newpost-pinyin#readme",
+  "dependencies": {
+    "@yhnu/hexo-newpost-pinyin": "^1.0.0",
+    "transliteration": "^2.1.8"
+  }
+}
